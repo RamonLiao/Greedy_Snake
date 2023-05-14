@@ -1,7 +1,6 @@
 # Greedy Snake Game
 
-<img src="GreedySnake.gif" alt="Cover" style="display:block; margin-left: auto;
-margin-right: auto;width: 45%;"/>
+<img src="GreedySnake.gif" alt="Cover" style="display:block; margin-left: auto; margin-right: auto;width: 60%;"/>
 
 This is a Greedy Snake game programmed with HTML/CSS/JavaScript.
 
